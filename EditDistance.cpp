@@ -1,4 +1,4 @@
-//string recommendation algorithm....
+//string recommendation algorithm....(Dynamic Programming)
 class Solution {
 public:
     int minDistance(string word1, string word2) {
